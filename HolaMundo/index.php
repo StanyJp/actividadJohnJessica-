@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-               
+              echo "Los integrantes son: 1-Hector Orlando 2-Arnold 3-Stany";
         
         ?>
     </body>
