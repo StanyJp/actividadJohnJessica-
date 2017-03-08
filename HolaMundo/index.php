@@ -11,8 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "1-Hector Orlando Guavita Rojas 2-Arnold 3-Stany";
-        
+               
         
         ?>
     </body>
